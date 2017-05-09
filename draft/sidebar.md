@@ -1,0 +1,22 @@
+- [Home](/start)
+- [About](/about)
+- OpenAg for...
+  - Makers
+  - Educators
+  - Growers
+  - Chefs
+- Build
+  - Personal Food Computer 2.0
+  - Personal Food Computer 1.0
+- Software
+  - Getting started
+  - Climate Recipes
+  - API
+  - Architecture
+  - Firmware Mods
+- Contribute
+  - Software
+  - Hardware
+  - Climate Recipes
+  - Curriculums
+  - Recipes

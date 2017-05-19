@@ -31,25 +31,25 @@ The food computer is composed of 6(7 with frame) main components:
 - Brain Module
 - Power Module
 
-![Image of PFC2 with parts labeled]()
+<img src="" alt="Image of PFC2 with parts labeled" width="800"/>
 
 #### Frame
 
 The frame is what keeps all the other modules together, and is what will usually get built first. It is composed of 3 sections, the growth chamber, electronics panel, and the fluids shelf. The growth chamber houses the basin in which the plants grow.
 
-![Image of PFC2 Frame mainly bare]()
+<img src="../../../imgs/Frame_Build_Photos/Verticals/vert_15.jpg" alt="Image of PFC2 Frame mainly bare" width="800"/>
 
 #### Power Module
 
 The power module supplies power to all the other electrical components. It houses the power switch, AC/DC converters, and a safe shutdown relay timer board for the Raspberry Pi.
 
-![Image of Power Module]()
+<img src="../../../imgs/power_module_assembly_front.jpg" alt="Image of Power Module" width="800"/>
 
 #### Brain Module
 
 The brain module is the most complex, and arguably the most important part of the PFC2. It orchestrates the entire system by reading sensor inputs and sends commands to the actuator.
 
-![Image of the Brain Fully Assembled]()
+<img src="../../../imgs/Brain_Module/brain_post_routing_front.jpg" alt="Image of the Brain Fully Assembled" width="800"/>
 
 The brain module's main subcomponents are the Relay Board, Raspberry Pi, Arduino, and Signal Board. These all get wired together and get connected to the various sensors and actuators on the PFC2.
 
@@ -61,13 +61,14 @@ The air heating and cooling loop is one of the strengths of the PFC2. It uses an
 
 The water manifold goes into the basin and houses water sensors and some circulation pumps. It is also where the peristaltic pump will pump the nutrients into.
 
-![Image of the water manifold]()
+<img src="../../../imgs/Water_Manifold/" alt="Image of the Water Manifold" width="800"/>
 
 #### Pump Manifold
 
 The pump manifold holds 5 pumps which will pump nutrients and pH adjustment fluids into the basin.
 
-![Image of the pump manifold]()
+<img src="../../../imgs/Pump_Manifold/finished_assembly_2.jpg" alt="Image of the Pump Manifold" width="800"/>
+
 
 ## Process Overview
 

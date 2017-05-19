@@ -16,5 +16,14 @@
 
 ---
 
+Go to [https://github.com/OpenAgInitiative/openag_pfc2](https://github.com/OpenAgInitiative/openag_pfc2) and open `openag_pfc2/BOM/BOM_MASTER.xlsx`
+
+Check the `Kit BOM` sheet. There should be a list of all the components. Some of the other sheets are breakdowns of those components. For example, `FAS-PCK-0001` is one item on `Kit BOM` but it is actually a package of fasteners. There are links to things to buy under the `Ordering BOM` sheet.
+
+![BOM Screenshot](../../../imgs/bom.png)
+
+When you buy items for `FAS-PCK-0001`, it helps to have all your materials in one place, especially the fasteners in small bags labelled according to the "Line #" in the BOM.
+
+Once you have all the components ready, we're ready to dive into making a PFC2.
 
 [Next: 3. Building the PFC](guides:food_computer_2:3_build)
